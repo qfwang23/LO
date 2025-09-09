@@ -1,11 +1,16 @@
-# 创建 catkin 工作空间
+## Dependencies
+ROS 1 (Noetic): roscpp, tf2_ros, geometry_msgs, sensor_msgs, nav_msgs
+Eigen3 (libeigen3-dev)
+TBB (libtbb-dev)
+PCL (libpcl-dev)
+Sophus (libsophus-dev)
+tsl::robin_map
+C++17 toolchain
+
+## build and run
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-
-# 克隆项目
 git clone https://github.com/qfwang23/LO.git
-
-# 解析依赖并编译
 cd ~/catkin_ws
 catkin_make
 source devel/setup.bash
