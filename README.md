@@ -43,7 +43,7 @@ rosbag play [topic]
 
 ![示例图片](https://github.com/qfwang23/LO/blob/3eaeaeebb11cf3b1210e6e47297447f7a408c7fe/LO_png/tab1.png)
 
-![示例图片]https://github.com/qfwang23/LO/blob/3eaeaeebb11cf3b1210e6e47297447f7a408c7fe/LO_png/traij.png
+![示例图片](https://github.com/qfwang23/LO/blob/3eaeaeebb11cf3b1210e6e47297447f7a408c7fe/LO_png/traij.png)
 
 ## Acknowledgements
 ```bash
