@@ -1,6 +1,6 @@
 # Multi-Scale Registration of LiDAR Odometry Based on Vertical Constraints in Dynamic Environments
 
-![](https://github.com/qfwang23/ALO/blob/3097dbb8654d6bd3e535c46e0c620b0a3eef7c20/fig1.png)
+![](https://github.com/qfwang23/LO/blob/ab24dcd92acc7970e254cecab6022480df833e0e/LO_main.pdf)
 ## Catalog
 - [Introduction](#Introduction)
 - [Demo](#Demo)
