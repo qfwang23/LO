@@ -1,3 +1,5 @@
+# The manuscript has been submitted to IEEE Transactions on Geoscience and Remote Sensing
+
 # Multi-Scale Registration of LiDAR Odometry Based on Vertical Constraints in Dynamic Environments
 
 ![](https://github.com/qfwang23/LO/blob/29e1d1d914cf2181cd0836f47ab8939cfbd14d3e/LO_png/main.png)
