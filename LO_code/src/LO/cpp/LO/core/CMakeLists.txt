@@ -1,6 +1,0 @@
-
-add_library(core STATIC)
-add_library(LO::core ALIAS core)
-target_sources(core PRIVATE Registration.cpp  VoxelHashMap.cpp)
-target_link_libraries(core PUBLIC Eigen3::Eigen tsl::robin_map TBB::tbb Sophus::Sophus)
-set_global_target_properties(core)

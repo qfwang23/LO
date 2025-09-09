@@ -1,5 +1,0 @@
-add_library(pipeline STATIC)
-add_library(LO::pipeline ALIAS pipeline)
-target_sources(pipeline PRIVATE LO.cpp)
-target_link_libraries(pipeline PUBLIC LO::core)
-set_global_target_properties(pipeline)
