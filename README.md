@@ -1,6 +1,6 @@
 ## Dependencies
-ROS 1 (Noetic): roscpp, tf2_ros, geometry_msgs, sensor_msgs, nav_msgs
-Eigen3 (libeigen3-dev)
+-ROS 1 (Noetic): roscpp, tf2_ros, geometry_msgs, sensor_msgs, nav_msgs
+-Eigen3 (libeigen3-dev)
 TBB (libtbb-dev)
 PCL (libpcl-dev)
 Sophus (libsophus-dev)
