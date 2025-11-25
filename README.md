@@ -1,4 +1,4 @@
-# The manuscript has been submitted to IEEE Internet of Things Journal
+# The manuscript has been submitted to IEEE Transactions on Industrial Informatics
 
 # Multi-Scale Registration of LiDAR Odometry Based on Vertical Constraints in Dynamic Environments
 
